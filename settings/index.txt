@@ -1,18 +1,18 @@
 2:I[9107,[],"ClientPageRoot"]
-3:I[286,["590","static/chunks/590-15556e8af336736c.js","145","static/chunks/145-a596538015d187ee.js","974","static/chunks/974-7e9f2141b0717318.js","868","static/chunks/868-3e59b59102b011bc.js","558","static/chunks/app/(app)/settings/page-e06303f0ab571987.js"],"default",1]
+3:I[286,["590","static/chunks/590-15556e8af336736c.js","145","static/chunks/145-a596538015d187ee.js","974","static/chunks/974-7e9f2141b0717318.js","868","static/chunks/868-044c4df2a80c2aed.js","558","static/chunks/app/(app)/settings/page-fbf76306f4bd08ba.js"],"default",1]
 4:I[4707,[],""]
 5:I[6423,[],""]
-6:I[1584,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","61","static/chunks/61-b6ced59609fea79a.js","868","static/chunks/868-3e59b59102b011bc.js","814","static/chunks/app/(app)/layout-1cbea4ffcfb57a4d.js"],"SettingsProvider"]
-7:I[9688,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","61","static/chunks/61-b6ced59609fea79a.js","868","static/chunks/868-3e59b59102b011bc.js","814","static/chunks/app/(app)/layout-1cbea4ffcfb57a4d.js"],"Announcement"]
-8:I[2387,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","61","static/chunks/61-b6ced59609fea79a.js","868","static/chunks/868-3e59b59102b011bc.js","814","static/chunks/app/(app)/layout-1cbea4ffcfb57a4d.js"],"ActiveUsers"]
-9:I[329,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","61","static/chunks/61-b6ced59609fea79a.js","868","static/chunks/868-3e59b59102b011bc.js","814","static/chunks/app/(app)/layout-1cbea4ffcfb57a4d.js"],"ReloadGuard"]
-a:I[2915,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","61","static/chunks/61-b6ced59609fea79a.js","868","static/chunks/868-3e59b59102b011bc.js","814","static/chunks/app/(app)/layout-1cbea4ffcfb57a4d.js"],"CursorManager"]
-b:I[1155,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","61","static/chunks/61-b6ced59609fea79a.js","868","static/chunks/868-3e59b59102b011bc.js","814","static/chunks/app/(app)/layout-1cbea4ffcfb57a4d.js"],"SoundEffects"]
-c:I[9125,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","61","static/chunks/61-b6ced59609fea79a.js","868","static/chunks/868-3e59b59102b011bc.js","814","static/chunks/app/(app)/layout-1cbea4ffcfb57a4d.js"],"MusicPlayer"]
-d:I[2662,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","61","static/chunks/61-b6ced59609fea79a.js","868","static/chunks/868-3e59b59102b011bc.js","814","static/chunks/app/(app)/layout-1cbea4ffcfb57a4d.js"],"ParticleSystem"]
-e:I[8281,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","61","static/chunks/61-b6ced59609fea79a.js","868","static/chunks/868-3e59b59102b011bc.js","814","static/chunks/app/(app)/layout-1cbea4ffcfb57a4d.js"],"MouseFx"]
-f:I[1101,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","61","static/chunks/61-b6ced59609fea79a.js","868","static/chunks/868-3e59b59102b011bc.js","814","static/chunks/app/(app)/layout-1cbea4ffcfb57a4d.js"],"Navigation"]
-10:T22d0,
+6:I[1584,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","846","static/chunks/846-caede2cb7bfe35a2.js","868","static/chunks/868-044c4df2a80c2aed.js","814","static/chunks/app/(app)/layout-4a19bb6a0bc16c4b.js"],"SettingsProvider"]
+7:I[9688,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","846","static/chunks/846-caede2cb7bfe35a2.js","868","static/chunks/868-044c4df2a80c2aed.js","814","static/chunks/app/(app)/layout-4a19bb6a0bc16c4b.js"],"Announcement"]
+8:I[2387,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","846","static/chunks/846-caede2cb7bfe35a2.js","868","static/chunks/868-044c4df2a80c2aed.js","814","static/chunks/app/(app)/layout-4a19bb6a0bc16c4b.js"],"ActiveUsers"]
+9:I[329,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","846","static/chunks/846-caede2cb7bfe35a2.js","868","static/chunks/868-044c4df2a80c2aed.js","814","static/chunks/app/(app)/layout-4a19bb6a0bc16c4b.js"],"ReloadGuard"]
+a:I[2915,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","846","static/chunks/846-caede2cb7bfe35a2.js","868","static/chunks/868-044c4df2a80c2aed.js","814","static/chunks/app/(app)/layout-4a19bb6a0bc16c4b.js"],"CursorManager"]
+b:I[1155,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","846","static/chunks/846-caede2cb7bfe35a2.js","868","static/chunks/868-044c4df2a80c2aed.js","814","static/chunks/app/(app)/layout-4a19bb6a0bc16c4b.js"],"SoundEffects"]
+c:I[9125,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","846","static/chunks/846-caede2cb7bfe35a2.js","868","static/chunks/868-044c4df2a80c2aed.js","814","static/chunks/app/(app)/layout-4a19bb6a0bc16c4b.js"],"MusicPlayer"]
+d:I[2662,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","846","static/chunks/846-caede2cb7bfe35a2.js","868","static/chunks/868-044c4df2a80c2aed.js","814","static/chunks/app/(app)/layout-4a19bb6a0bc16c4b.js"],"ParticleSystem"]
+e:I[584,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","846","static/chunks/846-caede2cb7bfe35a2.js","868","static/chunks/868-044c4df2a80c2aed.js","814","static/chunks/app/(app)/layout-4a19bb6a0bc16c4b.js"],"MouseFx"]
+f:I[1101,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunks/590-15556e8af336736c.js","559","static/chunks/559-6fab69ddab334881.js","846","static/chunks/846-caede2cb7bfe35a2.js","868","static/chunks/868-044c4df2a80c2aed.js","814","static/chunks/app/(app)/layout-4a19bb6a0bc16c4b.js"],"Navigation"]
+10:T2c1b,
               (function() {
                 try {
                   var chunkReloadKey = '1key-chunk-reload-at';
@@ -22,6 +22,8 @@ f:I[1101,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunk
                     return (
                       msg.indexOf('chunkloaderror') !== -1 ||
                       (msg.indexOf('loading chunk') !== -1 && msg.indexOf('failed') !== -1) ||
+                      msg.indexOf("cannot read properties of undefined (reading 'call')") !== -1 ||
+                      msg.indexOf('reading \'call\'') !== -1 ||
                       (req.indexOf('/_next/static/chunks/') !== -1 && req.indexOf('.js') !== -1)
                     );
                   };
@@ -55,6 +57,47 @@ f:I[1101,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunk
                   window.setTimeout(function() {
                     sessionStorage.removeItem(chunkReloadKey);
                   }, 20000);
+
+                  var bridgePrefix = '__1key_bridge_v1__';
+                  var hydrateCrossOriginBridge = function() {
+                    try {
+                      if (typeof window.name !== 'string') return;
+                      if (window.name.indexOf(bridgePrefix) !== 0) return;
+                      var encoded = window.name.slice(bridgePrefix.length);
+                      if (!encoded) {
+                        window.name = '';
+                        return;
+                      }
+                      var payload = JSON.parse(decodeURIComponent(encoded));
+                      var storageData = payload && payload.localStorage ? payload.localStorage : null;
+                      if (storageData && typeof storageData === 'object') {
+                        Object.keys(storageData).forEach(function(key) {
+                          var value = storageData[key];
+                          if (typeof value !== 'string') return;
+                          try { localStorage.setItem(key, value); } catch (_err) {}
+                        });
+                      }
+                      var cookieData = payload && payload.cookies ? payload.cookies : null;
+                      if (cookieData && typeof cookieData === 'object') {
+                        Object.keys(cookieData).forEach(function(name) {
+                          var value = cookieData[name];
+                          if (typeof value !== 'string') return;
+                          try {
+                            document.cookie =
+                              encodeURIComponent(name) +
+                              '=' +
+                              encodeURIComponent(value) +
+                              '; path=/; max-age=31536000; samesite=lax';
+                          } catch (_err) {}
+                        });
+                      }
+                    } catch (_err) {
+                      // Ignore malformed bridge payloads.
+                    } finally {
+                      try { window.name = ''; } catch (_err) {}
+                    }
+                  };
+                  hydrateCrossOriginBridge();
 
                   var saved = localStorage.getItem('1key-settings');
                   if (!saved) { document.title = '1Key'; return; }
@@ -181,6 +224,7 @@ f:I[1101,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunk
                   root.style.setProperty('--app-letter-spacing', spacingMap[settings.letterSpacing] || '0em');
                   root.style.setProperty('--app-font-weight', settings.boldFont ? '700' : '400');
                   root.style.setProperty('--app-gui-scale', settings.guiScale || '1');
+                  if (settings.uiMode === 'classic') root.classList.add('ui-classic');
                   if (settings.boldFont) root.classList.add('app-bold');
                 } catch(e) {
                   document.title = '1Key';
@@ -190,6 +234,6 @@ f:I[1101,["401","static/chunks/d8b2f613-89c0422b817984f9.js","590","static/chunk
 12:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
 13:{"display":"inline-block"}
 14:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
-0:["Y8Z7qMGacwyB0icRFKo_d",[[["",{"children":["(app)",{"children":["settings",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",{"children":["(app)",{"children":["settings",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"props":{"params":{},"searchParams":{}},"Component":"$3"}],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(app)","children","settings","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","main",null,{"className":"relative z-10","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(app)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/382170588bf61f24.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/696eb7f85179755e.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"__variable_99a17d __variable_d758cf __variable_14db65 __variable_49a339","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]}],["$","body",null,{"className":"font-sans antialiased bg-background text-foreground","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$11","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$12","children":"404"}],["$","div",null,{"style":"$13","children":["$","h2",null,{"style":"$14","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]],null],null],["$L15",null]]]]
+0:["thcHYTjjVk03EOxfdMG-k",[[["",{"children":["(app)",{"children":["settings",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",{"children":["(app)",{"children":["settings",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"props":{"params":{},"searchParams":{}},"Component":"$3"}],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(app)","children","settings","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","div",null,{"className":"proto-shell proto-app-layout","children":[["$","div",null,{"className":"proto-backdrop proto-backdrop-a"}],["$","div",null,{"className":"proto-backdrop proto-backdrop-b"}],["$","div",null,{"className":"proto-backdrop proto-backdrop-c"}],["$","div",null,{"className":"proto-grid"}],["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","main",null,{"className":"relative z-10 proto-main-shell proto-content-shell","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(app)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]]}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/382170588bf61f24.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/6ae71e32d26ef376.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"__variable_99a17d __variable_d758cf __variable_14db65 __variable_49a339","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]}],["$","body",null,{"className":"font-sans antialiased bg-background text-foreground","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$11","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$12","children":"404"}],["$","div",null,{"style":"$13","children":["$","h2",null,{"style":"$14","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]],null],null],["$L15",null]]]]
 15:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#000000"}],["$","meta","2",{"charSet":"utf-8"}],["$","meta","3",{"name":"description","content":"Your gateway to unlimited gaming. Access hundreds of unblocked games optimized for any environment."}],["$","meta","4",{"name":"generator","content":"v0.app"}],["$","meta","5",{"name":"next-size-adjust"}]]
 1:null
