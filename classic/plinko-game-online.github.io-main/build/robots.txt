@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://plinko-game-online.github.io/sitemap.xml
